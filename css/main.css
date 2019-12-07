@@ -1,0 +1,155 @@
+body
+{
+	padding-top: 50px;
+}
+
+div.cont{
+	margin-left: 1px;
+}
+
+div.rt{
+	padding-right: 1133px;
+}
+
+.td_lgreen{
+	background-color: rgb(174, 255, 194);
+}
+.head_num{
+	display: inline-block;
+	padding-right: 0px;
+	width: 12%;
+}
+.number{
+	width: 86.8%;
+	display: inline-block;
+}
+.num_label{
+	display: block;
+}
+
+#headerWraping
+{
+	position: relative;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	height: 200px;
+	background-image: url(../imgs/asd.png);
+	background-repeat: no-repeat;
+	background-size: 100% 700px;
+	background-position: top center; 
+	background-attachment: fixed;
+}
+
+#logotxt
+{
+	position: absolute;
+	width: 100%;
+	height: 180px;
+	background-image: url(../imgs/logotext.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 70% 300px;
+	top: 50%;
+	margin-top: -90px;
+}
+
+
+#headerWrap
+{
+	position: relative;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	height: 600px;
+	background-image: url(../imgs/asd.png);
+	background-repeat: no-repeat;
+	background-size: 100% 700px;
+	background-position: top center; 
+	background-attachment: fixed;
+}
+
+#logotxt
+{
+	position: absolute;
+	width: 100%;
+	height: 180px;
+	background-image: url(../imgs/logotext.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 70% 300px;
+	top: 50%;
+	margin-top: -90px;
+}
+
+#main_content
+{
+	margin-left: 0px;
+}
+
+.img
+{
+	height: 25%;
+	width: auto;
+}
+
+#footer{
+	margin-top: 50px;
+}
+
+fotorama__wrap{
+	width: 90%;
+	margin: 15px auto;
+}
+.table_modify{
+	width: 40%;
+	margin: 0 auto;
+}
+
+.colulu
+{
+    padding: 10px;
+}
+
+#add-product-btn{
+	margin-top: -35px;
+}
+
+.saved_image img{
+	width: auto;
+	height: 150px;
+}
+
+.saved-image{
+	text-align: center;
+}
+
+.step1{
+	display: block;
+	margin: -17px -17px -17px -17px;
+}
+
+.indiv{
+	display: inline-block;
+	margin: 5px -4px 10px 0px;
+}
+
+.step2{
+	display: none;
+}
+
+.bick{
+	display: none;
+}
+
+.chick{
+	display: none;
+}
+
+#cart_widget td, #recent_widget{
+	font-size: 80%;
+}
+
+input.price-range{
+	width: 55px;
+}
